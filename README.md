@@ -1,4 +1,4 @@
-# aviaggarwal.github.io
+# avii-aggarwal.github.io
 
 Personal portfolio website for Avi Aggarwal — aspiring political science and economics student.
 
